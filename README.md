@@ -15,6 +15,8 @@ Analyze sales trends across months and years
 Understand city‑level sales contribution and opportunities
 Evaluate category‑wise and product‑wise performance
 
+Data Source: Kaggle Dataset
+
 Dashboard Highlights
 1. Sales & Profit Overview
 Total Sales: 122.31M
